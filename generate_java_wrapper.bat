@@ -1,0 +1,1 @@
+web3j truffle generate  .\src\main\contracts\build\contracts\StandardToken.json -o .\src\main\java -p com.mozcalti.training.ethereum.generated
